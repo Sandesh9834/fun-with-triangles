@@ -79,22 +79,27 @@
     }
     
     .btn-check {
-      background: var(--primary-color);
       border: none;
-      color: #fff;
       padding: 0.7rem 1rem;
       border-radius: 0.5rem;
       font-size: large;
       cursor: pointer;
       outline: #fff;
       margin: 1rem auto;
-      display: block;
+      background: #37117a; 
+      color: white;
+      border: none;
     }
-    
+
+    .active, .btn-check:hover{
+      background: #37117a;
+      color: yellow;
+      border: solid yellow;
+    }
+   
     #btn-check {
       background: var(--primary-color);
       border: none;
-      color: #fff;
       padding: 0.7rem 1rem;
       border-radius: 0.5rem;
       font-size: large;
@@ -102,7 +107,16 @@
       outline: #fff;
       margin: 1rem auto;
       display: block;
+      background-color: white; 
+      color: #37117a;
+      border: solid #37117a;
     }
+
+    #btn-check:hover {
+      background-color: #37117a;
+      color: white;
+    }
+    
 
     #output {
       font-size: x-large;
@@ -113,10 +127,6 @@
     
     footer {
       text-align: center;
-      /* position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0; */
     }
     
     footer p {
