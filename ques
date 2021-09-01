@@ -1,0 +1,45 @@
+ <p>If all three angles are exactly the same measure, how big is each angle?</p>
+      <label>30&deg;</label>
+      <input type="radio" id="que-optn1">
+      <label>60&deg;</label>
+      <input type="radio" id="que-optn2">
+      <label>90&deg;</label>
+      <input type="radio">
+      <label>No of These</label>
+      <input type="radio">
+      <p>In a triangle, how many total degrees are there?</p>
+      <label>30&deg;</label>
+      <input type="radio" id="que-optn1">
+      <label>60&deg;</label>
+      <input type="radio" id="que-optn2">
+      <label>90&deg;</label>
+      <input type="radio">
+      <label>No of These</label>
+      <input type="radio">
+      <p>Find the measure of the angle indicated.</p>
+      <label>30&deg;</label>
+      <input type="radio" id="que-optn1">
+      <label>60&deg;</label>
+      <input type="radio" id="que-optn2">
+      <label>90&deg;</label>
+      <input type="radio">
+      <label>No of These</label>
+      <input type="radio">
+      <p>A triangle where all sides are congruent is called</p>
+      <label>30&deg;</label>
+      <input type="radio" id="que-optn1">
+      <label>60&deg;</label>
+      <input type="radio" id="que-optn2">
+      <label>90&deg;</label>
+      <input type="radio">
+      <label>No of These</label>
+      <input type="radio">
+      <p>An isosceles triangle has</p>
+      <label>30&deg;</label>
+      <input type="radio" id="que-optn1">
+      <label>60&deg;</label>
+      <input type="radio" id="que-optn2">
+      <label>90&deg;</label>
+      <input type="radio">
+      <label>No of These</label>
+      <input type="radio">
