@@ -4,8 +4,10 @@ var inputAngle3 = document.querySelector("#angle-3");
 var btnCheck = document.querySelector("#btn-check");
 var displayMessage = document.querySelector("#output");
 
-function sumAngles()
+function sumAngles(angleOne, angleTwo, angleThree)
 {
+      var sumOfAngles = Number(angleOne + angleTwo + angleThree);
+
       if(sumOfAngles === 180)
       {
             displayMessage.innerText = "Angles form a Triangle"
@@ -21,8 +23,7 @@ function onClick()
       var angleOne = Number(inputAngle1.value);
       var angleTwo = Number(inputAngle2.value);
       var angleThree = Number(inputAngle3.value);
-      var sumOfAngles = Number(angleOne + angleTwo + angleThree)
-      console.log("Sum is:" + sumOfAngles);
+      // console.log("Sum is:" + sumOfAngles);
 
       if(angleOne && angleTwo && angleThree)
       {
