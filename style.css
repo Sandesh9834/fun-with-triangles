@@ -11,6 +11,7 @@
     body {
       font-family: "Work Sans", sans-serif;
       text-align: center;
+      background-color: #d0bef0;
     }
     
     a {
@@ -117,6 +118,10 @@
       color: white;
     }
     
+    #btn-check:focus {
+      background-color: #37117a;
+      color: white;
+    }
 
     #output {
       font-size: x-large;
