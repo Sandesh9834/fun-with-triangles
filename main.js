@@ -23,14 +23,13 @@ function onClick()
       var angleOne = Number(inputAngle1.value);
       var angleTwo = Number(inputAngle2.value);
       var angleThree = Number(inputAngle3.value);
-      // console.log("Sum is:" + sumOfAngles);
 
-      if(angleOne && angleTwo && angleThree)
+      if(angleOne && angleTwo && angleThree && angleOne>0 && angleTwo>0 && angleThree>0)
       {
             sumAngles(angleOne, angleTwo, angleThree)
       }
       else{
-            displayMessage.innerText = "Enter all angles for Triangle ⚠"
+            displayMessage.innerText = "Enter valid values of all angles for Triangle ⚠"
       }
       
 }

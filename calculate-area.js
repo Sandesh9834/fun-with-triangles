@@ -31,13 +31,13 @@ function onClick()
       var sideTwo = Number(inputSide2.value);
       var sideThree = Number(inputSide3.value);
       
-      if(sideOne && sideTwo && sideThree)
+      if(sideOne && sideTwo && sideThree && sideOne>0 && sideTwo>0 && sideThree>0)
       {
             calculateArea(sideOne, sideTwo, sideThree);
       }
       else
       {
-            displayMessage.innerText = "Enter all sides to calculate area ⚠"
+            displayMessage.innerText = "Enter valid values of all sides to calculate area ⚠"
       }
 }
 

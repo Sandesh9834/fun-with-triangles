@@ -20,14 +20,14 @@ function onClick()
       var sideOne = Number(inputSide1.value);
       var sideTwo = Number(inputSide2.value);
       
-      if(sideOne && sideTwo)
+      if(sideOne && sideTwo && sideOne>0 && sideTwo>0)
       {
             var Hypotenuse = calculateHypotenuse(sideOne, sideTwo);
             displayMessage.innerText = `Hypotenuse is ${Hypotenuse} units`;
       }
       else
       {
-            displayMessage.innerText = "Enter both the sides to calculate hypotenuse ⚠"
+            displayMessage.innerText = "Enter valid values of both the sides to calculate hypotenuse ⚠"
       }
 }
 
