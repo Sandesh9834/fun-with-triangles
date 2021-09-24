@@ -2,13 +2,13 @@ Calculate area, the hypotenuse of the triangle, play a quiz based on the triangl
 
 # Table of contents
 
-1. [Overview](https://github.com/Sandesh9834/fun-with-triangles/new/main?readme=1#overview)
-   - [Screenshots](https://github.com/Sandesh9834/fun-with-triangles/new/main?readme=1#screenshots)
-   - [Links](https://github.com/Sandesh9834/fun-with-triangles/new/main?readme=1#links)
+1. [Overview](https://github.com/Sandesh9834/fun-with-triangles/tree/main#overview)
+   - [Screenshots](https://github.com/Sandesh9834/fun-with-triangles/new/main#screenshots)
+   - [Links](https://github.com/Sandesh9834/fun-with-triangles/new/main#links)
   
-2. [Built using](https://github.com/Sandesh9834/fun-with-triangles/new/main?readme=1#built-using)
+2. [Built using](https://github.com/Sandesh9834/fun-with-triangles/new/main#built-using)
    
-3. [Author](https://github.com/Sandesh9834/fun-with-triangles/new/main?readme=1#author)
+3. [Author](https://github.com/Sandesh9834/fun-with-triangles/new/main#author)
 
 ## Overview
 ### Screenshots
