@@ -5,7 +5,7 @@ Calculate area, the hypotenuse of the triangle, play a quiz based on the triangl
 1. [Overview](https://github.com/Sandesh9834/fun-with-triangles/tree/main#overview)
    - [Screenshots](https://github.com/Sandesh9834/fun-with-triangles/main#screenshots)
    - [Links](https://github.com/Sandesh9834/fun-with-triangles/main#links)
-   - 
+
 2. [Built using](https://github.com/Sandesh9834/fun-with-triangles/main#built-using)
    
 3. [Author](https://github.com/Sandesh9834/fun-with-triangles/main#author)
